@@ -4,6 +4,8 @@
         <Identity Id="afa51053-b6d6-4095-9b48-c1a60e2b5cf8" Version="1.0" Language="en-US" Publisher="Alisander Q" />
         <DisplayName>Switch Auto Hide Mode by Shortcut</DisplayName>
         <Description xml:space="preserve">Switch auto hide mode of left/right/bottom/top tool window groups by shortcut</Description>
+        <MoreInfo>https://github.com/qalisander/SidePanelSwitcher</MoreInfo>
+        <License>Resources\LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
         <Tags>auto hide, tool windows, left, right, bottom,  panel, shortcut</Tags>
