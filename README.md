@@ -8,4 +8,4 @@ To be able to switch side tool window panels just assign shortcuts to this comma
 ![Commands](art/commands.jpg)
 
 ## License
-[Apache 2.0](LICENSE)
+[Apache 2.0](LICENSE.txt)
