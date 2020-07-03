@@ -8,7 +8,7 @@
         <License>LICENSE.txt</License>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
-        <Tags>auto hide, tool windows, left, right, bottom,  panel, shortcut</Tags>
+        <Tags>auto hide, tool window, panel, shortcut</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />

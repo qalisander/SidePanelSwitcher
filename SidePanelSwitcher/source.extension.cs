@@ -13,6 +13,6 @@ namespace SidePanelSwitcher
         public const string Language = "en-US";
         public const string Version = "1.0";
         public const string Author = "Alisander Q";
-        public const string Tags = "auto hide, tool windows, left, right, bottom,  panel, shortcut";
+        public const string Tags = "auto hide, tool window, panel, shortcut";
     }
 }
